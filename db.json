@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "Take Aiva to skoo",
+      "day": "Feb 10th at 6am",
+      "reminder": "true"
+    },
+    {
+      "id": 3,
+      "text": "clean house",
+      "day": "Feb 9th at 5pm",
+      "reminder": false
+    },
+    {
+      "text": "take a shower aye",
+      "day": "yesterday",
+      "reminder": false,
+      "id": 4
+    }
+  ]
+}
